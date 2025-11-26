@@ -3,8 +3,33 @@
   {% include head.html %}
   <body>
     <main>
-      {% include header.html %} {% include bio.html %}
-      <section class="articles">
+      {% include header.html %}
+      {% if page.show_bio %} {% include bio.html %} {% endif %}
+
+      {% if page.show_intro != false and content and content != "" %}
+      <section class="page home-overview">
+        <div class="content">{{content}}</div>
+      </section>
+      {% endif %}
+      <section class="articles" id="blog">
+        {% if site.posts == empty %}
+        {% unless page.hide_placeholder %}
+        {% assign placeholder_message = page.placeholder_message %}
+        {% if placeholder_message == nil %}
+        {% if page.title == "Write-ups" %}
+        {% assign placeholder_message = "Write-ups will appear here when published." %}
+        {% elsif page.title == "Blog" %}
+        {% assign placeholder_message = "Blog posts will appear here once published." %}
+        {% else %}
+        {% assign placeholder_message = "Posts will appear here once published." %}
+        {% endif %}
+        {% endif %}
+        <article class="article">
+          <h2 class="article-title">Coming soon</h2>
+          <p class="article-desc">{{placeholder_message}}</p>
+        </article>
+        {% endunless %}
+        {% else %}
         {% for post in site.posts %}
         <article class="article">
           <h2 class="article-title">
@@ -20,6 +45,7 @@
           </div>
         </article>
         {%endfor%}
+        {% endif %}
       </section>
       {% include footer.html %}
     </main>

@@ -161,7 +161,12 @@ header {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 1.5rem;
+}
+header .brand {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
 }
 .site-title {
   font-size: clamp(1.6rem, 2.6vw, 2.2rem);
@@ -181,6 +186,28 @@ header {
   content: "▸";
   color: var(--accent-green);
   font-size: 1.2rem;
+}
+
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+.nav-links a {
+  color: var(--white-2);
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.75rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.02);
+  transition: all 0.2s ease-in-out;
+}
+.nav-links a:hover {
+  color: var(--accent-green);
+  border-color: var(--border-strong);
+  box-shadow: var(--glow-strong);
 }
 
 #dark-mode-toggle {
@@ -519,6 +546,13 @@ footer p {
     flex-direction: column;
     gap: 2rem;
     align-items: flex-start;
+    width: 100%;
+  }
+  header .brand {
+    width: 100%;
+  }
+  .nav-links {
+    gap: 0.5rem;
   }
   main {
     padding: 2.2rem 0.7rem 3rem;

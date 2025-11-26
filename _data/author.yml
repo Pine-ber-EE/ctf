@@ -1,13 +1,19 @@
-name: Your Name
-dp: https://placehold.co/320x320?text=Photo
+name: snowbird91 (Andrew)
+dp: /assets/icons/pfp.png
 description: "
   <p>
-    Introduce yourself, your team, or your project here.
+    Hey! I'm Andrew, a high school junior and Capture the Flag enthusiast. I compete with <a href='https://0xf1.sh' target='_blank'>0xf1sh</a> and <a href='https://ctftime.org/team/53812' target='_blank'>tjcsc</a>, focusing on forensics, cryptography, and OSINT (plus rev, pwn, web, and misc when needed).
   </p>
-  <br/>
   <p>
-    Share a short mission statement or remove this text entirely.
+    Captain of my high school computer security club.
   </p>
 "
-email: you@example.com
-contact: []
+quote:
+  text: "There is no greater weapon than a prepared mind."
+  author: "Zhuge Liang"
+email: ""
+contact:
+  - title: discord
+    url: https://discord.com/users/633303069550968832
+  - title: github
+    url: https://github.com/snowbird91

@@ -1,14 +1,14 @@
-title: Serial Programmer Starter
+title: snowbird91
 description: >
-  A blank Serial Programmer Jekyll theme ready for customization.
+  Andrew (snowbird91) | 0xf1sh & tjcsc | forensics, crypto, OSINT write-ups.
 url: https://snowbird91.github.io
 baseurl: "/ctf"
 markdown: kramdown
 
 # for atom feed
 author:
-  name: "Your Name"
-  email: you@example.com
+  name: "snowbird91 (Andrew)"
+  email: ""
 
 plugins:
   - jemoji
