@@ -548,6 +548,43 @@ header .site-title:hover {
   );
   border-radius: 10px;
 }
+.home-latest {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 16px;
+  background: linear-gradient(145deg, var(--gray-3), var(--gray-2));
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3), var(--glow-strong);
+}
+.home-latest h2 {
+  margin-bottom: 1rem;
+  font-family: "Space Grotesk", "IBM Plex Mono", monospace;
+  color: var(--white-1);
+}
+.latest-card {
+  padding: 1rem 1.25rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(91, 214, 255, 0.25);
+}
+.latest-card h3 {
+  margin-bottom: 0.3rem;
+  font-size: 1.2rem;
+}
+.latest-card h3 a {
+  color: var(--white-1);
+}
+.latest-card h3 a:hover {
+  color: var(--accent-green);
+}
+.latest-card .date {
+  display: block;
+  margin-bottom: 0.75rem;
+  opacity: 0.8;
+}
+.latest-placeholder {
+  opacity: 0.8;
+}
 .page .content table {
   width: 100%;
   border-collapse: collapse;

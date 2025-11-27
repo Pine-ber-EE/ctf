@@ -4,12 +4,12 @@ Personal Jekyll site for my security projects, CTF write-ups, and notes. The des
 
 ## Structure
 
-| Path                  | Purpose                                           |
-| --------------------- | ------------------------------------------------- |
-| `pages/`              | Top-level static pages (home, about, blog, etc.)  |
-| `all_collections/_posts/` | Jekyll posts collection (write-ups/blog posts)   |
-| `assets/`             | CSS/JS/assets powering the neon aesthetic         |
-| `blog/`, `write-ups/` | Placeholders for future markdown-based content    |
+| Path                             | Purpose                                                   |
+| -------------------------------- | --------------------------------------------------------- |
+| `pages/`                         | Top-level static pages (home, about, blog, etc.)          |
+| `write-ups/<slug>/`              | One folder per write-up with its Markdown + assets        |
+| `blog/`                          | Placeholder for future general blog posts                 |
+| `assets/`                        | CSS/JS/theme assets (icons, scripts, shared styles)       |
 
 ## Local Development
 

@@ -5,7 +5,6 @@ url: https://snowbird91.github.io
 baseurl: "/ctf"
 markdown: kramdown
 
-# for atom feed
 author:
   name: "snowbird91 (Andrew)"
   email: ""
@@ -16,15 +15,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-collections_dir: all_collections
-collections:
-  posts:
-    output: true
-
 defaults:
   - scope:
-      path: "all_collections/_posts"
+      path: "write-ups"
     values:
       layout: "post"
-      permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
