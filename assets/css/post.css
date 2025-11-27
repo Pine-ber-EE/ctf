@@ -385,6 +385,11 @@ main {
   );
   border-radius: 10px;
 }
+.content del,
+.content s {
+  text-decoration: line-through;
+  opacity: 0.85;
+}
 .content strong {
   font-weight: 700;
 }

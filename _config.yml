@@ -4,6 +4,8 @@ description: >
 url: https://snowbird91.github.io
 baseurl: "/ctf"
 markdown: kramdown
+kramdown:
+  input: GFM
 
 author:
   name: "snowbird91 (Andrew)"
