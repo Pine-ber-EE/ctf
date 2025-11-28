@@ -212,6 +212,19 @@ pre:hover .copy-code-button {
   box-shadow: var(--glow-strong);
 }
 
+.view-counter {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.view-counter img {
+  height: 24px;
+  width: auto;
+  image-rendering: pixelated;
+}
+
 [data-theme="light"] .copy-code-button {
   background-color: rgba(31, 160, 242, 0.12);
   color: var(--white-2);
