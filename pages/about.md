@@ -34,6 +34,11 @@ I'm a student intersted in cybersecurity and CTFs. I usually bounce between two 
   </thead>
   <tbody>
     <tr>
+      <td>Haix-la-Chapelle 2025</td>
+      <td>tjcsc</td>
+      <td>1st 👑</td>
+    </tr>
+    <tr>
       <td>LakeCTF Quals 2025</td>
       <td>tjcsc</td>
       <td>51st</td>
