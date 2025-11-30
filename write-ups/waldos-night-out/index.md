@@ -95,5 +95,3 @@ Maybe the images can confirm my thought. Let's look at this one:
 This looks exactly like the first image given! I'm confident that the images are from this building.
 
 Let's try the flag... It worked! ``pctf{sterling_reston_tysons}`` Nice! That was pretty easy as well.
-
-
