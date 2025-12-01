@@ -12,10 +12,8 @@ order: 6
 
 I participated with my club team tjcsc in PatriotCTF 2025, and we got 54th overall!
 
-**Challenge:** Waldo's Night Out
-
-**Category:** OSINT
-
+**Challenge:** Waldo's Night Out  
+**Category:** OSINT  
 **Flag:** ``pctf{sterling_reston_tysons}``
 
 This challenge had three parts, where we had to find which city/town each place was in. Let's solve it step by step!

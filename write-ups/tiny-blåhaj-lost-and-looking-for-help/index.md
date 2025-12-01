@@ -14,6 +14,7 @@ I participated with my club team tjcsc in Haix-la-Chapelle 2025, and we got firs
 
 **Challenge:** Tiny Blåhaj: lost and looking for help  
 **Category:** OSINT  
+**Author:** Tschotsch  
 **Flag:** `haix{dortmund_polizeiwache_nord}`
 
 ---

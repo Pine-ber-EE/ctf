@@ -14,6 +14,7 @@ I participated with my club team tjcsc in Haix-la-Chapelle 2025, and we got firs
 
 **Challenge:** PDFBill  
 **Category:** Misc  
+**Author:** Trayshar  
 **Flag:** ``haix{pdf_Is_w31Rd_AeFE42EdFab6C}``
 
 ---

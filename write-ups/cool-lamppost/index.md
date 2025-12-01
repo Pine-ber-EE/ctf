@@ -14,6 +14,7 @@ I participated with my club team tjcsc in Haix-la-Chapelle 2025, and we got firs
 
 **Challenge:** Cool Lamppost  
 **Category:** OSINT  
+**Author:** Euph0r14  
 **Flag:** `haix{51.5076_-0.0930}`
 
 ---
