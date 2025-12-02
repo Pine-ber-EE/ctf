@@ -152,4 +152,36 @@ Light Value                     : 9.6
 (base) Snowbird91: tiny-blåhaj-curious-about-the-road-ahead$
 ```
 
-Ahh, interesting! We have some useful data here.
+Ahh, interesting! We have some useful data here. The date and time the picture was taken is October 24th, 2025 at 16:24. This is very important for finding the exact bus route!
+
+The bus company is FlixBus. I have actually been on one of their busses before, but a simple reverse image search confirms this:
+
+![](./1.png)
+
+If we go to FlixBus's [website](https://global.flixbus.com/track?panelVisible=true), we can see a page dedicated for departures and arrivals at a specific location. Now, this begs a question. Is the bus arriving, or departing?
+
+Going to the [Dortmund](https://global.flixbus.com/bus/dortmund) page, we can see the exact location of the bus station:
+
+![](./2.png)
+
+We can tell if the bus is departing or arriving based on the direction the bus is driving in the original picture. We can see that the bus is driving **toward** the book store, and using Google Maps:
+
+![](./3.png)
+
+We can tell that it is driving away from the bus station, meaning it must be departing.
+
+I searched for departures from the Dortmund central bus station. Knowing that October 24th, 2025 was a Friday, I picked a Friday in the future to make sure that the bus route I was looking for would be active. Since I knew the picture was taken at 16:24 and that the location the picture was taken was not too far from the bus station, I knew the departure time was probably a few minutes before the picture was taken.
+
+This is why I selected December 5th, 2025 (a Friday) as the date and 4:00 PM (16:00) as the time. Searching gave these results:
+
+![](./4.png)
+
+Great! I see one route that seems to fit. FlixBus N1360B departing at 16:20 headed to Medyka. Let's try that flag...
+
+Perfect! `haix{n1360b_medyka}` worked and was the flag.
+
+Thank you for reading my write-up! This was a great CTF, and I'd like to give a huge shoutout for the organizers for doing such a good job on organizing their first CTF!
+
+If there's anything you think I could improve on in future write-ups, please let me know! 
+
+Thank you and have a great day!
