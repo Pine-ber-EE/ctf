@@ -240,7 +240,8 @@ header .site-title:hover {
 #bio {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
   gap: 1.4rem;
   padding: 1.35rem;
   background: linear-gradient(
@@ -261,6 +262,8 @@ header .site-title:hover {
 }
 #bio-wrapper {
   margin-left: 0.2rem;
+  flex: 1 1 0;
+  min-width: 0;
 }
 #text-wrapper {
   line-height: 1.5rem;
@@ -599,6 +602,95 @@ header .site-title:hover {
     rgba(88, 196, 255, 0.08)
   );
   border-radius: 10px;
+}
+.discord-presence {
+  margin-top: 1rem;
+  padding: 0.95rem 1.2rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 14px;
+  background: linear-gradient(
+      140deg,
+      rgba(59, 247, 166, 0.08),
+      rgba(88, 196, 255, 0.08)
+    ),
+    rgba(0, 0, 0, 0.12);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25), var(--glow-strong);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.9rem 1.2rem;
+  flex-wrap: wrap;
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.discord-presence--compact {
+  padding: 0.75rem 1rem;
+  gap: 0.75rem 1rem;
+}
+#bio .discord-presence {
+  margin-top: 0.85rem;
+  width: 100%;
+}
+.discord-presence__header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.discord-presence__indicator {
+  width: 0.95rem;
+  height: 0.95rem;
+  border-radius: 50%;
+  background: #7b8796;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 8px rgba(123, 135, 150, 0.4);
+  flex-shrink: 0;
+}
+.discord-presence__label {
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  color: var(--white-2);
+  display: block;
+}
+.discord-presence__state {
+  font-family: "Space Grotesk", "IBM Plex Mono", monospace;
+  font-size: 1rem;
+  color: var(--white-1);
+  line-height: 1.4;
+}
+.discord-presence__message {
+  margin: 0;
+  flex: 1;
+  color: var(--white-2);
+  min-width: 160px;
+}
+.discord-presence[data-status="online"] .discord-presence__indicator {
+  background: #3bf7a6;
+  box-shadow: 0 0 10px rgba(59, 247, 166, 0.7);
+}
+.discord-presence[data-status="idle"] .discord-presence__indicator {
+  background: #f6c04d;
+  box-shadow: 0 0 10px rgba(246, 192, 77, 0.6);
+}
+.discord-presence[data-status="dnd"] .discord-presence__indicator {
+  background: #ff6b7a;
+  box-shadow: 0 0 10px rgba(255, 107, 122, 0.7);
+}
+.discord-presence[data-status="invisible"] .discord-presence__indicator,
+.discord-presence[data-status="loading"] .discord-presence__indicator {
+  background: #7b8796;
+  box-shadow: 0 0 10px rgba(123, 135, 150, 0.4);
+}
+.discord-presence[data-status="error"] .discord-presence__indicator {
+  background: #f08d49;
+  box-shadow: 0 0 10px rgba(240, 141, 73, 0.65);
+}
+@media screen and (max-width: 600px) {
+  .discord-presence {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }
 .home-latest {
   margin: 2rem 0;
