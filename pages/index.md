@@ -11,9 +11,9 @@ list_source: none
 Welcome to my website! Here's what I have to offer:
 
 - **About:** background, teams, and ways to reach me.
-- **Write-ups:** explanations of how I solved challenges!
-- **Blog:** quick notes, experiments, and thoughts between events.
-- **Links:** Discord is best if you want to get in touch with me! Please let me know you found me through here.
+- **Write-ups:** explanations of how I solved challenges and my thought process
+- **Blog:** Not in use for now... but I might add notes in there sometime in the future
+- **Links:** Discord :D
 
 {% assign writeups = site.pages | where: "writeup", true | sort: "order" | reverse %}
 {% assign latest_writeup = writeups | first %}
