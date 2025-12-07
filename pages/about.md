@@ -5,22 +5,17 @@ permalink: /about/
 show_bio: false
 ---
 
-## Hey! I'm Andrew (snowbird91)
+## Hello I'm Pine!
 
-I'm a student intersted in cybersecurity and CTFs. I usually bounce between two teams:
-
-- **[tjcsc](https://ctftime.org/team/53812)** — my club team.
-- **[0xf1sh](https://0xf1.sh)** — secondary roster for CTFs: forensics, crypto, OSINT, and whatever gaps need filling.
+I compete in ctfs in **[tjcsc](https://ctftime.org/team/53812)**
 
 ### Focus areas
-- Forensics, cryptography, OSINT
-- Comfortable jumping into rev, pwn, web, and misc when needed
+- Cryptography, OSINT
+- I also can do a bit of forensics
 
 ### What I'm up to
-- Planning lectures and writing challenges for the club in-house CTF
-- Learning how to write write-ups
-- Deepening my knowledge of pwn, learning new techniques
-- Making this website better :)
+-Learning how to write writeups
+-Trying to improve my crypto knowledge and OSINT skills
 
 ### CTFs
 
@@ -49,11 +44,6 @@ I'm a student intersted in cybersecurity and CTFs. I usually bounce between two 
       <td>20th</td>
     </tr>
     <tr>
-      <td>Metared Argentina 2025</td>
-      <td>tjcsc</td>
-      <td>55th</td>
-    </tr>
-    <tr>
       <td>Haix-la-Chapelle 2025</td>
       <td>tjcsc</td>
       <td>1st 👑</td>
@@ -67,11 +57,6 @@ I'm a student intersted in cybersecurity and CTFs. I usually bounce between two 
       <td>PatriotCTF 2025</td>
       <td>tjcsc</td>
       <td>54th</td>
-    </tr>
-    <tr>
-      <td>GlacierCTF 2025</td>
-      <td>0xf1sh</td>
-      <td>37th</td>
     </tr>
     <tr>
       <td>AmateursCTF 2025</td>
@@ -93,29 +78,9 @@ I'm a student intersted in cybersecurity and CTFs. I usually bounce between two 
       <td>tjcsc</td>
       <td>69th</td>
     </tr>
-    <tr>
-      <td>WatCTF F25</td>
-      <td>0xf1sh</td>
-      <td>18th</td>
-    </tr>
-    <tr>
-      <td>ImaginaryCTF 2025</td>
-      <td>0xf1sh</td>
-      <td>69th</td>
-    </tr>
-    <tr>
-      <td>corCTF 2025</td>
-      <td>0xf1sh</td>
-      <td>75th</td>
-    </tr>
-    <tr>
-      <td>h4ckc0n 2025</td>
-      <td>0xf1sh</td>
-      <td>2nd</td>
     </tr>
   </tbody>
 </table>
 
 ### Contact
-- Discord: [snowbird91](https://discord.com/users/633303069550968832)
-- GitHub: [snowbird91](https://github.com/snowbird91)
+- Discord: [Pine-ber-EE](https://discord.com/users/1316967497718829166)
