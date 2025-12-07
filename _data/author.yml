@@ -2,16 +2,14 @@ name: snowbird91 (Andrew)
 dp: /assets/icons/pfp.png
 description: "
   <p>
-    Hey! I'm Andrew, a Capture the Flag enthusiast. I compete with <a href='https://ctftime.org/team/53812' target='_blank'>tjcsc</a> and <a href='https://0xf1.sh' target='_blank'>0xf1sh</a>, focusing on forensics, cryptography, and OSINT (plus rev, pwn, web, and misc when needed).
+    Hi! I am Pine, and I like ctfs and puzzles. I compete with <a href='https://ctftime.org/team/53812' target='_blank'>tjcsc</a> focusing on cryptology, OSINT, and forensics.
   </p>
 "
-discord_id: "633303069550968832"
+discord_id: "1316967497718829166"
 quote:
-  text: "There is no greater weapon than a prepared mind."
-  author: "Zhuge Liang"
+  text: "A good puzzle, it's a fair thing. Nobody is lying. It's very clear, and the problem depends just on you."
+  author: "Erno Rubrik"
 email: ""
 contact:
   - title: discord
-    url: https://discord.com/users/633303069550968832
-  - title: github
-    url: https://github.com/snowbird91
+    url: https://discord.com/users/1316967497718829166
