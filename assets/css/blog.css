@@ -485,10 +485,24 @@ header .site-title:hover {
   box-shadow: var(--glow-strong);
 }
 
-[data-theme="light"] .filter-controls select,
+[data-theme="light"] .filter-controls select {
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--gray-4);
+  border-color: var(--gray-3);
+}
+
+[data-theme="light"] .filter-controls label {
+  color: var(--gray-4);
+}
+
 @media (prefers-color-scheme: light) {
   .filter-controls select {
     background: rgba(255, 255, 255, 0.9);
+    color: var(--gray-4);
+    border-color: var(--gray-3);
+  }
+  
+  .filter-controls label {
     color: var(--gray-4);
   }
 }
@@ -763,6 +777,33 @@ footer {
 }
 footer p {
   font-size: 0.9rem;
+}
+
+footer #social-wrapper {
+  margin-top: 0;
+}
+
+footer #social-wrapper img {
+  width: 24px;
+  height: 24px;
+  margin: 0 0.3rem;
+  filter: invert() brightness(1.2)
+    drop-shadow(0 0 6px rgba(91, 214, 255, 0.35));
+  transition: all 0.2s ease-in-out;
+}
+
+[data-theme="light"] footer #social-wrapper img {
+  filter: drop-shadow(0 0 6px rgba(31, 160, 242, 0.25));
+}
+
+@media (prefers-color-scheme: light) {
+  footer #social-wrapper img {
+    filter: drop-shadow(0 0 6px rgba(31, 160, 242, 0.25));
+  }
+}
+
+footer #social-wrapper img:hover {
+  transform: translateY(-2px) scale(1.05);
 }
 
 /* media query */

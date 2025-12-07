@@ -9,8 +9,8 @@ show_bio: false
 
 I'm a student intersted in cybersecurity and CTFs. I usually bounce between two teams:
 
-- **[0xf1sh](https://0xf1.sh)** — main roster for CTFs: forensics, crypto, OSINT, and whatever gaps need filling.
 - **[tjcsc](https://ctftime.org/team/53812)** — my club team.
+- **[0xf1sh](https://0xf1.sh)** — secondary roster for CTFs: forensics, crypto, OSINT, and whatever gaps need filling.
 
 ### Focus areas
 - Forensics, cryptography, OSINT
@@ -34,14 +34,19 @@ I'm a student intersted in cybersecurity and CTFs. I usually bounce between two 
   </thead>
   <tbody>
     <tr>
-      <td>Null CTF 2025</td>
-      <td>tjcsc</td>
-      <td>20th</td>
+      <td>CyKor CTF 2025</td>
+      <td>US!?</td>
+      <td>28th</td>
     </tr>
     <tr>
       <td>VuwCTF 2025</td>
       <td>tjcsc</td>
       <td>5th</td>
+    </tr>
+    <tr>
+      <td>Null CTF 2025</td>
+      <td>tjcsc</td>
+      <td>20th</td>
     </tr>
     <tr>
       <td>Metared Argentina 2025</td>

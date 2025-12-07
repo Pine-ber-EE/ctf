@@ -36,15 +36,6 @@
       <span class="quote-author">— {{quote_data.author}}</span>
       {% endif %}
     </div>
-    {% endif %} {% if site.data.author.contact and site.data.author.contact.size >
-    0 %}
-    <div id="social-wrapper">
-      {% for i in site.data.author.contact %}
-      <a href="{{i.url}}" target="_blank" aria-label="{{i.title}}">
-        <img src="{{site.baseurl}}/assets/icons/{{i.title}}.png" alt="" />
-      </a>
-      {%endfor%}
-    </div>
     {% endif %}
   </section>
 </section>
