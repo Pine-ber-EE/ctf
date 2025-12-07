@@ -34,6 +34,16 @@ I'm a student intersted in cybersecurity and CTFs. I usually bounce between two 
   </thead>
   <tbody>
     <tr>
+      <td>Null CTF 2025</td>
+      <td>tjcsc</td>
+      <td>20th</td>
+    </tr>
+    <tr>
+      <td>VuwCTF 2025</td>
+      <td>tjcsc</td>
+      <td>5th</td>
+    </tr>
+    <tr>
       <td>Metared Argentina 2025</td>
       <td>tjcsc</td>
       <td>55th</td>
