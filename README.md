@@ -1,6 +1,6 @@
-# snowbird91 CTF Hub
+# Pine-ber-EE CTF Stuffs
 
-Personal Jekyll site for my security projects, CTF write-ups, and notes. The design is a neon, hacker-inspired skin on top of the Serial Programmer theme, with dark/light modes and accent neon highlights.
+Personal Jekyll site for my CTF writeups. The design is a neon, hacker-inspired skin on top of the Serial Programmer theme, with dark/light modes and accent neon highlights.
 
 ## Structure
 
