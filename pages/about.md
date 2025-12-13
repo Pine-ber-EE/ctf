@@ -9,6 +9,8 @@ show_bio: false
 
 I compete in ctfs in **[tjcsc](https://ctftime.org/team/53812)**
 
+Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird91.github.io/ctf](https://snowbird91.github.io/ctf/)!
+
 ### Focus areas
 - Cryptography, OSINT
 - I also can do a bit of forensics
