@@ -16,7 +16,7 @@ I participated this ctf with a team of four, ddos andrew, and we got 3rd!
 **Category:** Misc (OSINT)  
 **Author:** samuel  
 **Flag:** `winterctf{119_hite_ln}`  
-**Description** `i bet you can't find where i ate my lunch... also, take a look at this nice view i found nearby! flag format (all lowercase): winterctf{streetnumberUNDERSCOREstreetnameUNDERSCOREstreetabbreviation}`
+**Description:** i bet you can't find where i ate my lunch... also, take a look at this nice view i found nearby! flag format (all lowercase): winterctf{streetnumberUNDERSCOREstreetnameUNDERSCOREstreetabbreviation}
 
 ---
 
@@ -26,7 +26,7 @@ This challenge contained two files, one of them was this view, which was taken n
 
 and the second one was a picture taken of food inside of the restraunt.
 
-![](./lunch.png)
+![](./lunch.jpg)
 
 I quickly put the image into an image to location website (whereisthisplace.net) to narrow down the approximate range that I need to search, and recived the following result:
 
