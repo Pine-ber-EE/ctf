@@ -35,7 +35,7 @@ body {
     ),
     radial-gradient(
       circle at 85% 12%,
-      rgba(88, 196, 255, 0.12),
+      rgba(255, 89, 159, 0.12),
       transparent 26%
     ),
     radial-gradient(
@@ -143,7 +143,7 @@ body::after {
   inset: 0;
   background: radial-gradient(
       circle at 50% 0,
-      rgba(88, 196, 255, 0.12),
+      rgba(255, 89, 159, 0.12),
       transparent 35%
     ),
     radial-gradient(
@@ -257,7 +257,7 @@ header .site-title:hover {
 #img-wrapper img {
   border-radius: 50%;
   max-width: 110px;
-  border: 2px solid rgba(91, 214, 255, 0.35);
+  border: 2px solid rgba(255, 92, 161, 0.35);
   box-shadow: 0 0 0 5px rgba(63, 247, 166, 0.08);
 }
 #bio-wrapper {
@@ -286,7 +286,7 @@ header .site-title:hover {
 }
 #social-wrapper img {
   filter: invert() brightness(1.2)
-    drop-shadow(0 0 6px rgba(91, 214, 255, 0.35));
+    drop-shadow(0 0 6px rgba(255, 92, 161, 0.35));
   width: 26px;
   height: 26px;
   margin: 0 0.4rem 0 0;
@@ -305,7 +305,7 @@ header .site-title:hover {
 [data-theme="dark"] {
   #social-wrapper img {
     filter: invert() brightness(1.2)
-      drop-shadow(0 0 6px rgba(91, 214, 255, 0.35));
+      drop-shadow(0 0 6px rgba(255, 92, 161, 0.35));
   }
 }
 #social-wrapper img:hover {
@@ -377,7 +377,7 @@ header .site-title:hover {
     ),
     radial-gradient(
       circle at 80% 0%,
-      rgba(91, 214, 255, 0.12),
+      rgba(255, 92, 161, 0.12),
       transparent 35%
     );
   opacity: 0;
@@ -427,7 +427,7 @@ header .site-title:hover {
   background: linear-gradient(
     120deg,
     rgba(69, 247, 59, 0.18),
-    rgba(91, 214, 255, 0.2)
+    rgba(255, 92, 161, 0.2)
   );
   border-radius: 14px;
   font-size: 0.72rem;
@@ -436,7 +436,7 @@ header .site-title:hover {
   cursor: pointer;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  border: 1px solid rgba(91, 214, 255, 0.4);
+  border: 1px solid rgba(255, 92, 161, 0.4);
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
   transition: all 0.2s ease-in-out;
 }
@@ -449,7 +449,7 @@ header .site-title:hover {
 .filter-chip {
   padding: 0.35rem 0.85rem;
   border-radius: 12px;
-  border: 1px solid rgba(91, 214, 255, 0.35);
+  border: 1px solid rgba(255, 92, 161, 0.35);
   cursor: pointer;
   font-size: 0.85rem;
   letter-spacing: 0.05em;
@@ -509,7 +509,7 @@ header .site-title:hover {
 .articles .article .categories .category:hover {
   border-color: var(--accent-green);
   color: var(--accent-green);
-  box-shadow: 0 0 12px rgba(91, 214, 255, 0.3);
+  box-shadow: 0 0 12px rgba(255, 92, 161, 0.3);
 }
 
 .page {
@@ -535,7 +535,7 @@ header .site-title:hover {
     ),
     radial-gradient(
       circle at 80% 0%,
-      rgba(91, 214, 255, 0.12),
+      rgba(255, 92, 161, 0.12),
       transparent 35%
     );
   opacity: 0.35;
@@ -592,9 +592,9 @@ header .site-title:hover {
   padding: 3px 5px;
   color: var(--accent-blue);
   white-space: pre;
-  background: rgba(91, 214, 255, 0.08);
+  background: rgba(255, 92, 161, 0.08);
   border-radius: 6px;
-  border: 1px solid rgba(91, 214, 255, 0.2);
+  border: 1px solid rgba(255, 92, 161, 0.2);
 }
 .page .content pre {
   background: linear-gradient(145deg, #572046, #3e1542);
@@ -723,7 +723,7 @@ header .site-title:hover {
   padding: 1rem 1.25rem;
   border-radius: 12px;
   background: rgba(255, 255, 255, 0.02);
-  border: 1px solid rgba(91, 214, 255, 0.25);
+  border: 1px solid rgba(255, 92, 161, 0.25);
 }
 .latest-card h3 {
   margin-bottom: 0.3rem;
@@ -751,12 +751,12 @@ header .site-title:hover {
 }
 .page .content table th,
 .page .content table td {
-  border: 1px solid rgba(91, 214, 255, 0.25);
+  border: 1px solid rgba(255, 92, 161, 0.25);
   padding: 0.75rem;
   text-align: left;
 }
 .page .content table th {
-  background: rgba(91, 214, 255, 0.12);
+  background: rgba(255, 92, 161, 0.12);
   color: var(--white-1);
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -788,7 +788,7 @@ footer #social-wrapper img {
   height: 24px;
   margin: 0 0.3rem;
   filter: invert() brightness(1.2)
-    drop-shadow(0 0 6px rgba(91, 214, 255, 0.35));
+    drop-shadow(0 0 6px rgba(255, 92, 161, 0.35));
   transition: all 0.2s ease-in-out;
 }
 
