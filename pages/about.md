@@ -27,7 +27,6 @@ Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird
       <th>CTF Competition</th>
       <th>Team</th>
       <th>Placement</th>
-    </tr>
   </thead>
   <tbody>
     <tr>
