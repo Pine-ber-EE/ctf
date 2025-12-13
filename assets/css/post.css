@@ -143,7 +143,7 @@ body::after {
   inset: 0;
   background: radial-gradient(
       circle at 50% 0,
-      rgba(88, 196, 255, 0.12),
+      rgba(255, 89, 159, 0.12),
       transparent 35%
     ),
     radial-gradient(
@@ -254,7 +254,7 @@ main {
     ),
     radial-gradient(
       circle at 85% 0%,
-      rgba(91, 214, 255, 0.12),
+      rgba(255, 92, 161, 0.12),
       transparent 35%
     );
   opacity: 0.35;
@@ -309,7 +309,7 @@ main {
   background: linear-gradient(
     120deg,
     rgba(59, 247, 166, 0.18),
-    rgba(91, 214, 255, 0.2)
+    rgba(255, 92, 161, 0.2)
   );
   border-radius: 14px;
   font-size: 0.72rem;
@@ -318,14 +318,14 @@ main {
   cursor: pointer;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  border: 1px solid rgba(91, 214, 255, 0.4);
+  border: 1px solid rgba(255, 92, 161, 0.4);
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
   transition: all 0.2s ease-in-out;
 }
 .categories .category:hover {
   border-color: var(--accent-green);
   color: var(--accent-green);
-  box-shadow: 0 0 12px rgba(91, 214, 255, 0.3);
+  box-shadow: 0 0 12px rgba(255, 92, 161, 0.3);
 }
 
 /* markdown content */
@@ -414,12 +414,12 @@ main {
   background: rgba(255, 255, 255, 0.01);
 }
 .content table th {
-  background-color: rgba(91, 214, 255, 0.12);
+  background-color: rgba(255, 92, 161, 0.12);
   color: var(--white-1);
-  border: 1px solid rgba(91, 214, 255, 0.3);
+  border: 1px solid rgba(255, 92, 161, 0.3);
 }
 .content table * {
-  border: 1px solid rgba(91, 214, 255, 0.25);
+  border: 1px solid rgba(255, 92, 161, 0.25);
   padding: 0.4rem 0.5rem;
 }
 .content img {
@@ -454,9 +454,9 @@ main {
   padding: 3px 5px;
   color: var(--accent-blue);
   white-space: pre;
-  background: rgba(91, 214, 255, 0.08);
+  background: rgba(255, 92, 161, 0.08);
   border-radius: 6px;
-  border: 1px solid rgba(91, 214, 255, 0.2);
+  border: 1px solid rgba(255, 92, 161, 0.2);
 }
 
 @media (prefers-color-scheme: light) {
@@ -481,7 +481,7 @@ main {
   .content code,
   .content pre {
     color: var(--accent-blue);
-    background: rgba(91, 214, 255, 0.08);
+    background: rgba(255, 92, 161, 0.08);
     border-color: var(--border-strong);
   }
 }
@@ -543,7 +543,7 @@ footer #social-wrapper img {
   height: 24px;
   margin: 0 0.3rem;
   filter: invert() brightness(1.2)
-    drop-shadow(0 0 6px rgba(91, 214, 255, 0.35));
+    drop-shadow(0 0 6px rgba(255, 92, 161, 0.35));
   transition: all 0.2s ease-in-out;
 }
 
