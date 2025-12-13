@@ -34,27 +34,20 @@ I quickly put the image into an image to location website (whereisthisplace.net)
 
 This narrowed the location down to the mountanous regions of Virginia. From there, one of my teammates, [going to sleep](https://ctftime.org/user/243106) analyzed the mountain ranges, and figured the view was someplace near Luray, VA.
 
-![](./2.png)
+The gravy and mashed potato combo of the food closely resembles American comfort food, so I started searching up American restraunts near Luray. After scrolling through Google Maps review images of around a dozen or so restraunts, I stumbled upon Strasburg Diner. 
 
-The gravy and mashed potato combo of the food closely resembles American comfort food, so I started searching up American restraunts near Luray.
-
-![](./3.png)
-
-After scrolling through Google Maps review images of around a dozen or so restraunts, I stumbled upon Strasburg Diner. 
-
-![](./4.png)
 
 I immedeatly noticed that they used red Coca-Cola cups, which were in lunch.png, so I kept on digging.
 
-![](./5.png)
+![](./2.png)
 
 I also found that the seats-sofas that were by the wall closely resembles the color and pattern.
 
-![](./6.png)
+![](./3.png)
 
 At this point, I was sure about the restrant, so I quickly got the street name (119 Hite Ln, Strasburg, VA 22657) from google maps and plugged it into the flag format.
 
-![](./7.png)
+![](./4.png)
 
 Yay!! `winterctf{119_hite_ln}` It worked!
 Anyways, it turned out that my team was the only one that solved this chall, so that was pretty cool!
