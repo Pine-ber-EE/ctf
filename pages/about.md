@@ -16,8 +16,8 @@ Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird
 - I also can do a bit of forensics
 
 ### What I'm up to
--Learning how to write writeups
--Trying to improve my crypto knowledge and OSINT skills
+- Learning how to write writeups
+- Trying to improve my crypto knowledge and OSINT skills
 
 ### CTFs
 
@@ -27,8 +27,14 @@ Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird
       <th>CTF Competition</th>
       <th>Team</th>
       <th>Placement</th>
+    </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>WinterCTF  2025</td>
+      <td>ddos andrew</td>
+      <td>3rd</td>
+    </tr>
     <tr>
       <td>CyKor CTF 2025</td>
       <td>US!?</td>
