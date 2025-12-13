@@ -85,7 +85,6 @@ Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird
       <td>tjcsc</td>
       <td>69th</td>
     </tr>
-    </tr>
   </tbody>
 </table>
 
