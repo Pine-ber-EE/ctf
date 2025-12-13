@@ -1,6 +1,7 @@
 # Pine-ber-EE CTF Stuffs
 
 Personal Jekyll site for my CTF writeups. The design is a neon, hacker-inspired skin on top of the Serial Programmer theme, with dark/light modes and accent neon highlights.
+Kinda just copied the site from Snowbird91, here is his website! https://snowbird91.github.io/ctf/
 
 ## Structure
 
