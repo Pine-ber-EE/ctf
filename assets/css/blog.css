@@ -52,17 +52,17 @@ body {
   body {
     background: radial-gradient(
         circle at 12% 18%,
-        rgba(11, 191, 146, 0.18),
+        rgba(11, 191, 48, 0.18),
         transparent 32%
       ),
       radial-gradient(
         circle at 78% 10%,
-        rgba(31, 160, 242, 0.2),
+        rgba(242, 31, 133, 0.2),
         transparent 30%
       ),
       radial-gradient(
         circle at 20% 82%,
-        rgba(11, 191, 146, 0.14),
+        rgba(11, 191, 70, 0.14),
         transparent 28%
       ),
       linear-gradient(180deg, #fff2f8, #ffe7f2 55%, #fff7fc);
@@ -72,12 +72,12 @@ body {
 html[data-theme="light"] body {
   background: radial-gradient(
       circle at 12% 18%,
-      rgba(11, 191, 146, 0.18),
+      rgba(191, 11, 98, 0.18),
       transparent 32%
     ),
     radial-gradient(
       circle at 78% 10%,
-      rgba(242, 31, 35, 0.2),
+      rgba(242, 31, 133, 0.2),
       transparent 30%
     ),
     radial-gradient(
