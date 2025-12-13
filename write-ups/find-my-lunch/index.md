@@ -13,9 +13,9 @@ order: 1
 I participated this ctf with a team of four, ddos andrew, and we got 3rd! 
 
 **Challenge:** Find my Lunch  
-**Category:** Misc (OSINT) 
+**Category:** Misc (OSINT)  
 **Author:** samuel  
-**Flag:** `winterctf{119_hite_ln}`
+**Flag:** `winterctf{119_hite_ln}`  
 **Description** `i bet you can't find where i ate my lunch... also, take a look at this nice view i found nearby! flag format (all lowercase): winterctf{streetnumberUNDERSCOREstreetnameUNDERSCOREstreetabbreviation}`
 
 ---
