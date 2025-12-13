@@ -1,14 +1,14 @@
-title: snowbird91
+title: pinebery
 description: >
-  Andrew (snowbird91) | tjcsc & 0xf1sh | forensics, crypto, OSINT write-ups.
-url: https://snowbird91.github.io
+  Pine-ber-EE | tjcsc | forensics, crypto, OSINT write-ups.
+url: https://pinebery.github.io
 baseurl: "/ctf"
 markdown: kramdown
 kramdown:
   input: GFM
 
 author:
-  name: "snowbird91 (Andrew)"
+  name: "Pine-ber-EE"
   email: ""
 
 plugins:
