@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cool Lamppost"
+title: "Find my Lunch"
 categories: [osint, winterctf2025]
 date: 2025-12-12 8:00:00 -0500
 writeup: true
