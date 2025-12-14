@@ -24,7 +24,7 @@ The chall provided two very simmilar images, pixels.png, and more_pixels.png
 
 ![](./pixels.png) ![](./more_pixels.png)
 
-The two images were very simmilar, so my first thought was to compare them. I used this [image comparer](https://www.img2go.com/compare-image), which I used previously for another challenge in a previous ctf.
+The two images were very simmilar, so my first thought was to compare them. I used this [image comparer](https://www.img2go.com/compare-image), which I previously used for another challenge in a different ctf.
 
 ![](./1.png)
 
