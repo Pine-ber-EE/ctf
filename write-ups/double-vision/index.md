@@ -29,6 +29,6 @@ The two images were very simmilar, so my first thought was to compare them. I us
 ![](./1.png)
 
 The results look very promising! From what I can see, the text read "bnsyjwhyk{oxcy_fqnls_ymj_nrfljx}". After running Dcode's cipher identifier and using Caesar Cipher to shift it five positions, I got "winterctf{jsxt_align_the_images}", which was the flag!
-My team ended up being the first team to complete this, nice!
+My team ended up being the first team to complete this challenge, nice!
 
 Thank you for reading this writeup!
