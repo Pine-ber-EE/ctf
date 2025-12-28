@@ -35,7 +35,7 @@ I then exported it as a txt file.
 
 After doing some more research, I found that 0x5c was the command that writes the ram, and the bytes before that was to be ignored when creating the image. I also found that 0x15 is a command that sets the width of the image, and 0x75 was the command that sets the height of the image.
 
-Using ctrl-f, I found the lines I was looking for in the exported [txt file]([url](https://raw.githubusercontent.com/pine-ber-ee/ctf/write-ups/bit-mosaic/spi.txt))!
+Using ctrl-f, I found the lines I was looking for in the exported [txt file]([url](https://pine-ber-ee.github.io/ctf/write-ups/bit-mosaic/spi.txt))!
 
 ```
 6.355588041666667,0,0x15,   
