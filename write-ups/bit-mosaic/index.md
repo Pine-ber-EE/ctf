@@ -31,11 +31,11 @@ I downloaded Saleae's Logic 2 analyzer and created a SPI analyzer with these con
 
 ![](./2.png)
 
-I then exported it as a txt file.
+I then exported it as a [txt file](spi.txt).
 
 After doing some more research, I found that 0x5c was the command that writes the ram, and the bytes before that was to be ignored when creating the image. I also found that 0x15 is a command that sets the width of the image, and 0x75 was the command that sets the height of the image.
 
-Using ctrl-f, I found the lines I was looking for in the exported [txt file](spi.txt)!
+Using ctrl-f, I found the lines I was looking for in the exported txt file!
 
 ```
 6.355588041666667,0,0x15,   
