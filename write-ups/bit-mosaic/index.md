@@ -20,7 +20,7 @@ This challenge contained a zip with 3 files, a pinmap, a display, and a .sal fil
 ![](./Bit_mosaic_pinmap.png) 
 ![](./Bit_mosaic.png)
 
-A quick reverse image search revealed that the display was a SSD1351 OLED, and Google provided some useful extra information about it.
+A quick reverse image search revealed that the display was a SSD1351 OLED, and Google provided some useful information about it.
 
 ![](./1.png)
 
