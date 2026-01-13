@@ -22,7 +22,7 @@ This challenge started with a RAR file, which had a video in it.
 
 
 The circles and rectangled looked like morse code, so after slowing down a ton, I mapped frames with the circle as "." and frames with the rectagle as "-", using the completely black frames as seperators.
-This resulted in "-.-. - ..-. ..... .-.-.- .-- --- .-. -.. .--. .-. . ... ... .-.-.- -.-. --- --", which when decoded gave "CTF5.WORDPRESS.COM".
+This resulted in "-.-. - ..-. ..... .-.-.- .-- --- .-. -.. .--. .-. . ... ... .-.-.- -.-. --- --", which when decoded gave "[CTF5.WORDPRESS.COM](CTF5.WORDPRESS.COM)".
 
 The website was an article, which included an image of an AI-generated rat and a hint that "Everything you need is already in the picture." 
 
@@ -34,7 +34,7 @@ I decided to download the image, but after running some basic steg and not findi
 
 Searching up the Github account and repository gave https://github.com/The-Real-Entity/Attack-Vector. The repo also contained snowyclues.rar, and after opening that I found diamond.png, which was just ordinary text but with a png file extention. 
 
-The text read "c2ysVNG6W6QhGPPhhqYWCY1". Dcode identified that it was base58, and decoded it into "@GabrielXEntity". From there, using IDCrawl I found the twitter profile https://x.com/GabrielXEntity.
+The text read "c2ysVNG6W6QhGPPhhqYWCY1". Dcode identified that it was base58, and decoded it into "@GabrielXEntity". From there, using IDCrawl I found the twitter profile [https://x.com/GabrielXEntity](https://x.com/GabrielXEntity).
 
 The accound had one post,
 
@@ -120,7 +120,7 @@ else:
 ```
 {% endraw %}
 
-And found the only valid url, "https://pastebin.com/zSEhwnNX".
+And found the only valid url, "[https://pastebin.com/zSEhwnNX](https://pastebin.com/zSEhwnNX))".
 
 ![](5.png)
 
