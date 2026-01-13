@@ -120,7 +120,7 @@ else:
 ```
 {% endraw %}
 
-And found the only valid url, "[https://pastebin.com/zSEhwnNX](https://pastebin.com/zSEhwnNX))".
+And found the only valid url, "[https://pastebin.com/zSEhwnNX](https://pastebin.com/zSEhwnNX)".
 
 ![](5.png)
 
