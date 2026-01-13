@@ -54,18 +54,14 @@ import re
 import string
 import requests
 
-s1 = "lxxts://tesxibmn.coq/zSIlwnN\�"
-s2 = "httpo6++paote^ij*_km+vOEhsjJX�"
+s1 = "lxxts://tesxibmn.coq/zSIlwnN\\"
+s2 = "httpo6++paote^ij*_km+vOEhsjJX"
 
 # ---- CONFIG ----
 ALLOWED = string.ascii_letters + string.digits + ":/.?-_"
 ID_LEN = 8
 TIMEOUT = 4
 # ----------------
-
-# IGNORE FINAL CORRUPTED CHARACTER
-if len(s1) > 0: s1 = s1[:-1]
-if len(s2) > 0: s2 = s2[:-1]
 
 # pad for alignment
 L = max(len(s1), len(s2))
