@@ -20,6 +20,7 @@ This challenge started with a RAR file, which had a video in it.
   <source src="./vectorstart.mp4" type="video/mp4">
 </video>
 
+
 The circles and rectangled looked like morse code, so after slowing down a ton, I mapped frames with the circle as "." and frames with the rectagle as "-", using the completely black frames as seperators.
 This resulted in "-.-. - ..-. ..... .-.-.- .-- --- .-. -.. .--. .-. . ... ... .-.-.- -.-. --- --", which when decoded gave "CTF5.WORDPRESS.COM".
 
