@@ -32,7 +32,7 @@ I decided to download the image, but after running some basic steg and not findi
 
 ![](./1.png) 
 
-Searching up the Github account and repository gave https://github.com/The-Real-Entity/Attack-Vector. The repo also contained snowyclues.rar, and after opening that I found diamond.png, which was just ordinary text but with a png file extention. 
+Searching up the Github account and repository gave [https://github.com/The-Real-Entity/Attack-Vector](https://github.com/The-Real-Entity/Attack-Vector). The repo also contained snowyclues.rar, and after opening that I found diamond.png, which was just ordinary text but with a png file extention. 
 
 The text read "c2ysVNG6W6QhGPPhhqYWCY1". Dcode identified that it was base58, and decoded it into "@GabrielXEntity". From there, using IDCrawl I found the twitter profile [https://x.com/GabrielXEntity](https://x.com/GabrielXEntity).
 
