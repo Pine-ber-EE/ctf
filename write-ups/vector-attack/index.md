@@ -123,11 +123,11 @@ And found the only valid url, "https://pastebin.com/zSEhwnNX".
 
 ![](5.png)
 
-The pastebin had the text "I5RFQYKKGJYDOQRRKJ4VO3TDNF2TG4DFNNDWGNCSNUZXE5LFOJTGMTSRPJYA====", and identifying and decoding it with base32 gave the string "GbXaJ2p7B1RyWnciu3pekGc4Rm3ruerffNQzp". From there using Dcode's cipher identifier once again and decoding it with base58, the flag finally showed up.
+The pastebin had the text "I5RFQYKKGJYDOQRRKJ4VO3TDNF2TG4DFNNDWGNCSNUZXE5LFOJTGMTSRPJYA====". Identifying and decoding it with base32 gave the string "GbXaJ2p7B1RyWnciu3pekGc4Rm3ruerffNQzp". From there I used Dcode's cipher identifier once again and decoded it with base58.
 
 ![](6.png)
 
-Yay! `scpctf{A_Sh0rt_G00s3_Ch4s3}`
+Yay! `scpctf{A_Sh0rt_G00s3_Ch4s3}` The flag finally showed up!
 This challenge was actually a really fun challenge and it taught me a lot! Personally, I would probably assign a few more points for this chall, because of the sheer amount of content, but otherwise, it was great, and thank you disavowed913 for creating it!
 
 I hope you enjoyed my writeup :D
