@@ -128,7 +128,7 @@ The pastebin had the text "I5RFQYKKGJYDOQRRKJ4VO3TDNF2TG4DFNNDWGNCSNUZXE5LFOJTGM
 
 ![](6.png)
 
-Yay! `scpctf{A_Sh0rt_G00s3_Ch4s3}` The flag finally showed up!
+Yay! `scpctf{A_Sh0rt_G00s3_Ch4s3}` The flag finally showed up.
 This challenge was actually a really fun challenge and it taught me a lot! Personally, I would probably assign a few more points for this chall, because of the sheer amount of content, but otherwise, it was great, and thank you disavowed913 for creating it!
 
 I ended up placing 5th in this ctf, which is really cool :)
