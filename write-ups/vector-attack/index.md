@@ -16,7 +16,9 @@ order: 4
 ---
 This challenge started with a RAR file, which had a video in it.
 
-![](./vectorstart.mp4) 
+<video width="640" controls>
+  <source src="./vectorstart.mp4" type="video/mp4">
+</video>
 
 The circles and rectangled looked like morse code, so after slowing down a ton, I mapped frames with the circle as "." and frames with the rectagle as "-", using the completely black frames as seperators.
 This resulted in "-.-. - ..-. ..... .-.-.- .-- --- .-. -.. .--. .-. . ... ... .-.-.- -.-. --- --", which when decoded gave "CTF5.WORDPRESS.COM".
@@ -126,7 +128,7 @@ The pastebin had the text "I5RFQYKKGJYDOQRRKJ4VO3TDNF2TG4DFNNDWGNCSNUZXE5LFOJTGM
 ![](6.png)
 
 Yay! `scpctf{A_Sh0rt_G00s3_Ch4s3}`
-This challenge was actually a really fun challenge and it taught me a lot! Personally though, I would probably assign a few more points for this chall, because of the sheer amount of content, but otherwise, it was a really nice expeience, and thank you disavowed913 for creating it!
+This challenge was actually a really fun challenge and it taught me a lot! Personally, I would probably assign a few more points for this chall, because of the sheer amount of content, but otherwise, it was great, and thank you disavowed913 for creating it!
 
 I hope you enjoyed my writeup :D
 
