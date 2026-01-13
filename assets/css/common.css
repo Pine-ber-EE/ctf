@@ -8,8 +8,8 @@
   --gray-6: #381423;
   --white-1: #e9fff5;
   --white-2: #b8d7ff;
-  --accent-green: #3bf762;
-  --accent-blue: #ff5986;
+  --accent-green: #ff5986;
+  --accent-blue: #3bf762;
   --accent-cyan: #3bf762;
   --glow-strong: 0 0 35px rgba(69, 247, 59, 0.18);
   --panel-glass: rgba(74, 27, 47, 0.82);
@@ -154,3 +154,4 @@ hr {
 [data-theme="light"] .copy-code-button:hover {
   background-color: rgba(69, 247, 59, 0.2);
 }
+
