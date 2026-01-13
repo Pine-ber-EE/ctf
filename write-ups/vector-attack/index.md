@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vector Attack"
-categories: [OSINT, scpctf2025]
+categories: [osint, scpctf2025]
 date: 2026-1-12 8:00:00 -0800
 writeup: true
 permalink: /write-ups/vector-attack/
