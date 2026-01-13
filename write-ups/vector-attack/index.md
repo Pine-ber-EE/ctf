@@ -48,6 +48,7 @@ Since there was no concrete pattern I could see from the first half of the url (
 
 I used this script to bruteforce,
 
+{% raw %}
 ```
 #!/usr/bin/env python3
 import re
@@ -114,6 +115,8 @@ if results:
 else:
         print("None found")
 ```
+{% endraw %}
+
 And found the only valid url, "https://pastebin.com/zSEhwnNX".
 
 ![](5.png)
