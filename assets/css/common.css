@@ -3,9 +3,9 @@
   --gray-2: #4a1b2f;
   --gray-2_5: #3e1542;
   --gray-3: #572046;
-  --gray-4: #381423;
-  --gray-5: #381423;
-  --gray-6: #381423;
+  --gray-4: #6e0d1a;
+  --gray-5: #6e0d1a;
+  --gray-6: #6e0d1a;
   --white-1: #e9fff5;
   --white-2: #b8d7ff;
   --accent-green: #0fde38;
@@ -154,6 +154,7 @@ hr {
 [data-theme="light"] .copy-code-button:hover {
   background-color: rgba(69, 247, 59, 0.2);
 }
+
 
 
 
