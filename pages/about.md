@@ -9,15 +9,17 @@ show_bio: false
 
 I compete in ctfs in **[tjcsc](https://ctftime.org/team/53812)**
 
-Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird91.github.io/ctf](https://snowbird91.github.io/ctf/)!
+Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird91.github.io/ctf](https://snowbird91.github.io/ctf/)!!
 
-### Focus areas
-- Cryptography, OSINT
-- I also can do a bit of forensics
+### Categories I main
+- Forensics, OSINT
+- I have a pretty deep knowledge of ciphers, so I can do some types of crypto
+- I love to do misc challs!
 
 ### What I'm up to
-- Learning how to write writeups
-- Trying to improve my crypto knowledge and OSINT skills
+- Memorizing even more ciphers
+- Learning how to do OSINT fast
+- Exploring diffeent file types!
 
 ### CTFs
 
@@ -53,7 +55,7 @@ Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird
     <tr>
       <td>Haix-la-Chapelle 2025</td>
       <td>tjcsc</td>
-      <td>1st 👑</td>
+      <td>1st :D</td>
     </tr>
     <tr>
       <td>LakeCTF Quals 2025</td>
