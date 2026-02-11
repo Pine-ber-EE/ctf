@@ -38,13 +38,13 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --gray-1: #381423;
-    --gray-2: #4a1b2f;
-    --gray-2_5: #3e1542;
+    --gray-1: #6e0d1a;
+    --gray-2: #5e0513;
+    --gray-2_5: #8e2032;
     --gray-3: #572046;
-    --gray-4: #381423;
-    --gray-5: #381423;
-    --gray-6: #381423;
+    --gray-4: #962536;
+    --gray-5: #962536;
+    --gray-6: #962536;
     --white-1: #e9fff5;
     --white-2: #b8d7ff;
     --accent-green: #3bf762;
@@ -75,13 +75,13 @@
 }
 
 [data-theme="dark"] {
-  --gray-1: #381423;
-  --gray-2: #4a1b2f;
+  --gray-1: #6e0d1a;
+  --gray-2: #5e0513;
   --gray-2_5: #3e1542;
-  --gray-3: #572046;
-  --gray-4: #381423;
-  --gray-5: #381423;
-  --gray-6: #381423;
+  --gray-3: #8e2032;
+  --gray-4: #962536;
+  --gray-5: #962536;
+  --gray-6: #962536;
   --white-1: #e9fff5;
   --white-2: #b8d7ff;
   --accent-green: #3bf762;
@@ -154,6 +154,7 @@ hr {
 [data-theme="light"] .copy-code-button:hover {
   background-color: rgba(69, 247, 59, 0.2);
 }
+
 
 
 
