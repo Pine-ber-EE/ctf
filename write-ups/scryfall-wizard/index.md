@@ -110,6 +110,6 @@ I found the card by searching up the description on Google.
 ![](./23.png)  
 Last card! After already using Scryfall to seach up so many cards, I immedeatly recognized the image as a screenshot of the format legality section of a Scryfall card page. From here I used a bunch of banned:<format> search queries and found a card that matched the image.  
 
-By now I had noticed that the first letter of every card seemed to spell something. Putting them together gives "BLOCKERLISSEF_R_MATHING". This matched pretty well with the phrase "Math is for blockers", so by replacing the cards that were not in mtg with and underscroll and guessing the rest of the missing cards I got "BLOCKERS_IS_FOR_MATHING". Putting that into the flag format gave bkctf{blockers_is_for_mathing}, which was the correct flag!
+By now I had noticed that the first letter of every card seemed to spell something. Putting them together gives "BLOCKERSLISSEF_R_MATHING". This matched pretty well with the phrase "Math is for blockers", so by replacing the cards that were not in mtg with and underscroll and guessing the rest of the missing cards I got "BLOCKERS_IS_FOR_MATHING". Putting that into the flag format gave bkctf{blockers_is_for_mathing}, which was the correct flag!
 
 I had a lot of fun solving this challenge (even if it was a little tedious). My team, tjcsc ended up winning first, which was really amazing. Thank you all for reading this writeup and I hope you have a nice day :D 
