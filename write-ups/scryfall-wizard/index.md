@@ -44,7 +44,7 @@ I did a Google search with the card number "197/254" and was able to find it.
 
 7. [Rowan, Scholar of Sparks](https://scryfall.com/card/stx/278/rowan-scholar-of-sparks-will-scholar-of-frost)  
 ![](./7.png)  
-Searched Scryfall with loy=2 (meaning that the loyalty was two) and found a simmilar card. I wasn''t sure if this was the right card because it didn't match competely.  
+Searched Scryfall with loy=2 (meaning that the loyalty was two) and found a simmilar card. I wasn't sure if this was the right card because it didn't match competely. Update: Turns out the card was actually Ral, Monsoon Mage, and I just got lucky that the first letters were the same. 
 
 8. [Silver Overlord](https://scryfall.com/card/spg/128/sliver-overlord)  
 ![](./8.png)  
