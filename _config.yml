@@ -1,8 +1,8 @@
 title: pinebery
 description: >
   Pine-ber-EE | tjcsc | forensics, crypto, OSINT write-ups.
-url: https://pinebery.github.io
-baseurl: "/ctf"
+url: https://pinebery.xyz
+baseurl: ""
 markdown: kramdown
 kramdown:
   input: GFM
