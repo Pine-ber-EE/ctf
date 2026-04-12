@@ -13,15 +13,15 @@ Also I kinda just copy-pasted snowbird91's site, so check out his site [snowbird
 
 ### Categories I main
 - Forensics, OSINT
-- I have a pretty deep knowledge of ciphers, so I can do some types of crypto
+- I have a pretty deep knowledge of obscure ciphers, so I can do some types of crypto
 - I love to do misc challs!
 
 ### What I'm up to
 - Memorizing even more ciphers
 - Learning how to do OSINT fast
-- Exploring diffeent file types!
+- Exploring different file types!
 
-### CTFs
+### Some CTFs I've Done
 
 <table class="ctf-table">
   <thead>
