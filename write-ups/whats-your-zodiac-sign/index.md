@@ -90,7 +90,7 @@ message = "".join(pos[i] for i in range(1,341))
 print(message)
 ```
 
-Which resulted in “ELCINORHCFSEHTMORFTEERTSEHTSSORCALETOHEHTFOEMANEHTTIMBUSYAMUOYOTPYRCNISSEWORPRUOYROFDRAWERASASYADOWTNAHTSSELUOYKOOTYLNONOITATPADASIHTTUBEVLOSOTSRAEYENOYTFIFKOOTTIYTRUOFEERHTZDELLACSAWMARGOTPYRCTAHTMARGOTPYRCADELIAMEHEREHWMORFSETUNIMNEETFIFYLNONAMADELLIKEHREBOTCONIOCSICNARFNASFOSTEERTSEHTDEMAOROHWRELLIKSUOIROTONASAWEREHTENINYTXISNEETENINNI”. I was a little bit worried at first that I messed up somewhere because it looked like gibberish, but I decided to plug it into Dcode’s cipher identifier just in case and decoded it with [Latin Gibberish](https://www.dcode.fr/latin-gibberish) into “NINETEENSIXTYNINETHEREWASANOTORIOUSKILLERWHOROAMEDTHESTREETSOFSANFRANCISCOINOCTOBERHEKILLEDAMANONLYFIFTEENMINUTESFROMWHEREHEMAILEDACRYPTOGRAMTHATCRYPTOGRAMWASCALLEDZTHREEFOURTYITTOOKFIFTYONEYEARSTOSOLVEBUTTHISADAPTATIONONLYTOOKYOULESSTHANTWODAYSASAREWARDFORYOURPROWESSINCRYPTOYOUMAYSUBMITTHENAMEOFTHEHOTELACROSSTHESTREETFROMTHESFCHRONICLE”.
+Which resulted in `ELCINORHCFSEHTMORFTEERTSEHTSSORCALETOHEHTFOEMANEHTTIMBUSYAMUOYOTPYRCNISSEWORPRUOYROFDRAWERASASYADOWTNAHTSSELUOYKOOTYLNONOITATPADASIHTTUBEVLOSOTSRAEYENOYTFIFKOOTTIYTRUOFEERHTZDELLACSAWMARGOTPYRCTAHTMARGOTPYRCADELIAMEHEREHWMORFSETUNIMNEETFIFYLNONAMADELLIKEHREBOTCONIOCSICNARFNASFOSTEERTSEHTDEMAOROHWRELLIKSUOIROTONASAWEREHTENINYTXISNEETENINNI`. I was a little bit worried at first that I messed up somewhere because it looked like gibberish, but I decided to plug it into Dcode’s cipher identifier just in case and decoded it with [Latin Gibberish](https://www.dcode.fr/latin-gibberish) into `NINETEENSIXTYNINETHEREWASANOTORIOUSKILLERWHOROAMEDTHESTREETSOFSANFRANCISCOINOCTOBERHEKILLEDAMANONLYFIFTEENMINUTESFROMWHEREHEMAILEDACRYPTOGRAMTHATCRYPTOGRAMWASCALLEDZTHREEFOURTYITTOOKFIFTYONEYEARSTOSOLVEBUTTHISADAPTATIONONLYTOOKYOULESSTHANTWODAYSASAREWARDFORYOURPROWESSINCRYPTOYOUMAYSUBMITTHENAMEOFTHEHOTELACROSSTHESTREETFROMTHESFCHRONICLE`.
 
 "Nineteen sixty nine there was a notorious killer who roamed the streets of San Francisco in October he killed a man only fifteen minutes from where he mailed a cryptogram that cryptogram was called z three fourty it took fifty one years to solve but this adaptation only took you less than two days as a reward for your prowess in crypto you may submit the name of the hotel across the street from the SF Chronicle"
 
@@ -100,6 +100,6 @@ I quickly located the San Francisco Chronicle on Google Maps and searched for ne
 
 ![](./4.png)  
 
-The hotel right across the street was The Pickwick Hotel, and the flag DawgCTF{pickwick_hotel} worked!
+The hotel right across the street was The Pickwick Hotel, and the flag `DawgCTF{pickwick_hotel}` worked!
 
 This is possibly the most fun I’ve ever had with a ctf cryptology challenge and it taught me a lot :D Thank you so much to Takumi for creating such a creative challenge and thank you all for reading my writeup!
