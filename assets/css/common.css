@@ -38,10 +38,10 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --gray-1: #6e0d1a;
+    --gray-1: #572134;
     --gray-2: #5e0513;
-    --gray-2_5: #8e2032;
-    --gray-3: #572046;
+    --gray-2_5: #3e1542;
+    --gray-3: #4a1b2f;
     --gray-4: #962536;
     --gray-5: #962536;
     --gray-6: #962536;
@@ -75,7 +75,7 @@
 }
 
 [data-theme="dark"] {
-  --gray-1: #6e0d1a;
+  --gray-1: #572134;
   --gray-2: #5e0513;
   --gray-2_5: #3e1542;
   --gray-3: #4a1b2f;
