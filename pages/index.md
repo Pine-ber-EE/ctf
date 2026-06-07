@@ -8,12 +8,11 @@ hide_placeholder: true
 list_source: none
 --- 
 
-Welcome to my website! Here's what I have to offer:
+Welcome! Feel free to look around :)
 
-- **About:** background, teams, and ways to reach me.
-- **Write-ups:** explanations of how I solved challenges and my thought process
-- **Blog:** Not in use for now... but I might add notes in there sometime in the future
-- **Links:** Discord :D
+This website is maily for CTF writeups, but I might add other stuff here if I feel like it
+
+Thanks to snowbird91 for the website! Go check out his site [here](https://ctf.snowbird91.xyz/).
 
 {% assign writeups = site.pages | where: "writeup", true | sort: "order" | reverse %}
 {% assign latest_writeup = writeups | first %}
