@@ -1,7 +1,7 @@
 :root {
   --gray-1: #6e0d1a;
   --gray-2: #4a1b2f;
-  --gray-2_5: #3e1542;
+  --gray-2_5: #4a1b2f;
   --gray-3: #572046;
   --gray-4: #6e0d1a;
   --gray-5: #6e0d1a;
@@ -40,7 +40,7 @@
   :root {
     --gray-1: #572134;
     --gray-2: #5e0513;
-    --gray-2_5: #3e1542;
+    --gray-2_5: #4a1b2f;
     --gray-3: #4a1b2f;
     --gray-4: #962536;
     --gray-5: #962536;
@@ -77,7 +77,7 @@
 [data-theme="dark"] {
   --gray-1: #572134;
   --gray-2: #5e0513;
-  --gray-2_5: #3e1542;
+  --gray-2_5: #4a1b2f;
   --gray-3: #4a1b2f;
   --gray-4: #962536;
   --gray-5: #962536;
