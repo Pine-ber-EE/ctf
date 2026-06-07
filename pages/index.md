@@ -39,24 +39,3 @@ Thanks to snowbird91 for the website! Go check out his site **[here](https://ctf
   <p class="latest-placeholder">No write-ups yet. Check back soon.</p>
   {% endif %}
 </section>
-
-<section class="home-latest">
-  <h2>Latest Blog Post</h2>
-  {% if latest_blog %}
-  <div class="latest-card">
-    <h3>
-      <a href="{{site.baseurl}}{{latest_blog.url}}"
-        >{{latest_blog.title}}</a
-      >
-    </h3>
-    <small class="date"
-      >{{latest_blog.date | date: "%b %-d, %Y"}}</small
-    >
-    <p>
-      {{ latest_blog.excerpt | strip_html | truncate: 140 }}
-    </p>
-  </div>
-  {% else %}
-  <p class="latest-placeholder">No blog posts yet. Check back soon.</p>
-  {% endif %}
-</section>
