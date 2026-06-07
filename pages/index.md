@@ -12,7 +12,7 @@ Welcome! Feel free to look around :)
 
 This website is mainly for CTF writeups, but I might add other stuff here if I feel like it
 
-Thanks to snowbird91 for the website! Go check out his site [here](https://ctf.snowbird91.xyz/).
+Thanks to snowbird91 for the website! Go check out his site **[here](https://ctf.snowbird91.xyz/)**
 
 {% assign writeups = site.pages | where: "writeup", true | sort: "order" | reverse %}
 {% assign latest_writeup = writeups | first %}
